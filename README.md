@@ -31,7 +31,10 @@ The dataset, named `Crop_recommendation.csv`, includes agricultural and environm
 
 ## Installation and Dependencies
 
-1. Clone the repository:
+**1.Install the required Python libraries:**
    ```bash
-   git clone https://github.com/yourusername/Crop-Recommendation-System.git
-   cd Crop-Recommendation-System
+   pip install catboost numpy pandas matplotlib seaborn scikit-learn
+   ```bash
+
+**2.Place the Crop_recommendation.csv dataset in the root directory.**
+
